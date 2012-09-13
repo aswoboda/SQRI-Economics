@@ -1,0 +1,51 @@
+\documentclass{article}
+\usepackage[height = 9.5in, top = 0in, width = 6in, bottom = .5in]{geometry}
+\usepackage{color}
+
+
+\title{SQRI Economics Activity: \\ Game Data Mini-Poster}
+\author{Aaron Swoboda}
+\date{}
+
+\begin{document}
+\maketitle
+\thispagestyle{empty}
+\pagestyle{empty}
+
+\section*{Your Task}
+Your task is to work as an individual to create a ``mini-poster'' (one-page of 8.5'' x 11'' paper) summarizing one or two interesting results from your research with the game data we generated. 
+
+Prepare your poster for someone who is reasonably intelligent, but has not studied economics, game theory, nor participated in the games with us. Be sure to provide appropriate background information such that they can understand the content of the poster. Your SQRI roommate should be able to understand your poster without needing you to explain it.
+
+\subsection*{\textcolor{red}{Bring a hard-copy of your poster to class on Wednesday morning, July 18}}
+
+\section*{Goals of the Poster Activity}
+\begin{enumerate}
+\item Gain familiarity with data analysis in Excel
+\item Practice formulating an economic research question
+\item Better understand the benefits of data visualization
+\item Practice distilling a lot of work into a small amount output
+\end{enumerate}
+
+\section*{Essential Elements of a Good Poster \ldots}
+
+\newcommand{\concept}[1]{{\bf \large #1}}
+
+\renewcommand{\arraystretch}{1.7}
+\begin{tabular}{lp{4.5in}}
+\concept{Title} &  Imagine that your reader were only going to read your title. What information can you convey in just the title? Try to convey the take-home message of your poster. Use active voice (rather than passive). Your poster title should be close to a newspaper headline. For instance, ``Cheaters Never Win!'' would be an awesome poster title if that was what you found in your research. \\
+
+\concept{Question} & Your poster should ask and answer an interesting question. Your title should be the answer, but make sure you clearly tell the reader what the question is, too. If it is not obvious, also help us see why this is an interesting question to ask and answer. \\
+
+\concept{Visuals} & They say that a picture is worth a thousand words. This is a chance to show your audience what you found as well as tell them. Remember the Junk Charts Trifecta. Ask an interesting question, analyze the data to get an answer, construct a visual to help us see your results. Don't write a one-page paper.\\
+
+\concept{Organization} &  Think about where you want the different pieces of content to go. A poster is two dimensional. Take advantage of both dimensions. What do you want above/below each other? What do you want side-by-side? How do you expect the reader to flow through your content?\\
+
+\concept{Deliberation} & Everything you do in a poster should be intentional.  Don't settle for things just because that's how they turned out the first time. Instead think about how you want things to turn out and then make it happen. Think about things like alignment, proximity, size, color, etc.\\
+
+\concept{Author} & Be proud of your work! Take credit for your work! \\
+\end{tabular}
+
+
+
+\end{document}
